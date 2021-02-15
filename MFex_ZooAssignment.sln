@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFex_ZooAssignment", "MFex_ZooAssignment\MFex_ZooAssignment.csproj", "{F141B563-EDAF-4140-9CF2-56D990BF4985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_Test_Cases", "Unit_Test_Cases\Unit_Test_Cases.csproj", "{D620C3D8-0E0A-4EC6-BD9B-F987D5885386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F141B563-EDAF-4140-9CF2-56D990BF4985}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F141B563-EDAF-4140-9CF2-56D990BF4985}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F141B563-EDAF-4140-9CF2-56D990BF4985}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F141B563-EDAF-4140-9CF2-56D990BF4985}.Release|anycpu.Build.0 = Release|anycpu
+		{D620C3D8-0E0A-4EC6-BD9B-F987D5885386}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{D620C3D8-0E0A-4EC6-BD9B-F987D5885386}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{D620C3D8-0E0A-4EC6-BD9B-F987D5885386}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{D620C3D8-0E0A-4EC6-BD9B-F987D5885386}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC82CBAD-1C1E-46C8-AFEB-A8FB003E509B}
+	EndGlobalSection
+EndGlobal

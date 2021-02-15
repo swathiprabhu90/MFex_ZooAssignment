@@ -1,0 +1,7 @@
+/Users/jevu/Projects/MFex_ZooAssignment/MFex_ZooAssignment/obj/Debug/MFex_ZooAssignment.csproj.CoreCompileInputs.cache
+/Users/jevu/Projects/MFex_ZooAssignment/MFex_ZooAssignment/bin/Debug/Resources/Zoo.xml
+/Users/jevu/Projects/MFex_ZooAssignment/MFex_ZooAssignment/bin/Debug/MFex_ZooAssignment.exe
+/Users/jevu/Projects/MFex_ZooAssignment/MFex_ZooAssignment/bin/Debug/MFex_ZooAssignment.pdb
+/Users/jevu/Projects/MFex_ZooAssignment/MFex_ZooAssignment/obj/Debug/MFex_ZooAssignment.exe
+/Users/jevu/Projects/MFex_ZooAssignment/MFex_ZooAssignment/obj/Debug/MFex_ZooAssignment.pdb
+/Users/jevu/Projects/MFex_ZooAssignment/MFex_ZooAssignment/obj/Debug/MFex_ZooAssignment.csprojAssemblyReference.cache
